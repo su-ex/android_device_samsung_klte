@@ -1,37 +1,37 @@
 [
   {
-    "remote": "device",
-    "repository": "android_device_samsung_klte-common",
+    "remote": "git",
+    "repository": "su-ex/android_device_samsung_klte-common",
     "target_path": "device/samsung/klte-common",
     "revision": "M"
   },
   {
-    "remote": "device",
-    "repository": "android_device_samsung_msm8974-common",
+    "remote": "git",
+    "repository": "su-ex/android_device_samsung_msm8974-common",
     "target_path": "device/samsung/msm8974-common",
     "revision": "M"
   },
   {
-    "remote": "device",
-    "repository": "android_kernel_samsung_klte",
+    "remote": "git",
+    "repository": "su-ex/android_kernel_samsung_klte",
     "target_path": "kernel/samsung/klte",
     "revision": "M"
   },
   {
-    "remote": "device",
-    "repository": "android_device_qcom_sepolicy",
+    "remote": "git",
+    "repository": "su-ex/android_device_qcom_sepolicy",
     "target_path": "device/qcom/sepolicy",
     "revision": "M"
   },
   {
-    "remote": "origin",
-    "repository": "android_external_stlport",
+    "remote": "git",
+    "repository": "su-ex/android_external_stlport",
     "target_path": "external/stlport",
     "revision": "M"
   },
   {
-    "remote": "device",
-    "repository": "proprietary_vendor_samsung",
+    "remote": "git",
+    "repository": "su-ex/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision": "M"
   }
